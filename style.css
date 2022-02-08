@@ -1,0 +1,52 @@
+body {
+    background-color: #F6F8FF;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+#nickname {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+#description {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    position: absolute;
+    top: 20%;
+    right: 30%;
+}
+
+.section-title {
+    line-height: 42px;
+    font-weight: 600;
+    font-size: 28px
+}
+
+.skills {
+    line-height: 42px;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#fotolukano {
+    float: left;
+    height: 180px;
+    padding: 10px;
+    background-color: #50514F;
+}
+
+.image-container {
+    height: 200px;
+    position: relative;
+}
+div {
+    border: 1px solid #272D2D;
+}
+
+ul li:nth-child(odd) {
+    background-color: #23CE6B;
+}
